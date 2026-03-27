@@ -11,3 +11,5 @@ Folder containing code used for each sensor
 ###### MOD-XXXX NMF CV w Max Abs: NMF Cross validation using MSE
 ###### MOD-XXXX NMF factors barcharts: Barcharts using number of factors from CV
 ###### MOD-XXXX NMF Wind Rose: Wind rose figures using number of factors from CV
+### 3. Figures
+Figures generated from code output
